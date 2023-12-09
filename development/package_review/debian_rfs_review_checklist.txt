@@ -15,8 +15,8 @@ hopefully the submitter, making the sponsorship process simpler and smoother
 for both parties.
 
 License: GPL3+ - https://www.gnu.org/licenses/gpl-3.0.html or see 'license.txt'
-         file, if you checked this from its original git repository at:
-         https://github.com/kathenas/ks-debian-documents.
+         file, if you obtained this as part of downloading/cloning the original
+         git repository at: https://github.com/kathenas/ks-debian-documents.
 
 Key:
 
