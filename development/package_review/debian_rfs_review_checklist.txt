@@ -1,0 +1,27 @@
+Kathenas (Phil Wyett) checklist for Debian RFS package reviews
+==============================================================
+
+A template document of tests ideally performed when reviewing a Debian package
+Request For Sponsorship (RFS).
+
+Important notes:
+
+This is not an official Debian document, but a helper for the reviewer and
+hopefully the submitter, making the sponsorship process simpler and smoother
+for both parties.
+
+License: GPL3+ - https://www.gnu.org/licenses/gpl-3.0.html
+
+Key:
+
+[Y] Test performed and successful.
+[X] Test performed and failed.
+[N] Test not performed - Not relevant for this package.
+
+Tests:
+
+[] If package is new to Debian, has an Intent To Package (ITP) been created?
+[] Has Request For Sponsorship (RFS) been created?
+[] Package builds successfully in appropriate pbuilder or equivalent chroot?
+[] Package is lintian clean?
+[] Package passes piuparts tests?
