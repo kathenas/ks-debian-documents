@@ -1,5 +1,5 @@
-Kathenas (Phil Wyett) checklist for Debian RFS package reviews
-==============================================================
+Checklist for Debian Request For Sponsorship (RFS) package reviews
+==================================================================
 
 A template document of tests ideally performed when reviewing a Debian package
 Request For Sponsorship (RFS).
