@@ -4,6 +4,10 @@ Checklist for Debian Request For Sponsorship (RFS) package reviews
 A template document of tests ideally performed when reviewing a Debian package
 Request For Sponsorship (RFS).
 
+Authors:
+
+Philip Wyett (kathenas) - philip.wyett@kathenas.org
+
 Important notes:
 
 This is not an official Debian document, but a helper for the reviewer and
