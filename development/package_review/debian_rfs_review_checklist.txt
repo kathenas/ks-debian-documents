@@ -29,5 +29,7 @@ Tests:
 [] If package is new to Debian, has an Intent To Package (ITP) been created?
 [] Has Request For Sponsorship (RFS) been created?
 [] Package builds successfully in appropriate pbuilder or equivalent chroot?
+[] Package builds successfully twice in a row in appropriate pbuilder or
+   equivalent chroot?
 [] Package is lintian clean?
 [] Package passes piuparts tests?
